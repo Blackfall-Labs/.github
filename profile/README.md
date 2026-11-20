@@ -43,11 +43,25 @@ Astromind is our cellular machine intelligence research: small, CPU-native, inte
 
 ## Divisions
 
-- **Data Preservation and Migration**: formats and moving data out of fragile ones.
-- **Machine Intelligence**: Astromind and agent research.
-- **Computational Engineering and Research**: the Noderalis engine and products built on it.
-- **Manifest Humanity**: civic data, published for offline use.
-- **Astrolyptic Entertainment & Media**: our storyverse.
+### Data Preservation and Migration
+
+Keeping knowledge readable for decades, offline, and moving it out of old and fragile formats into ones we control. This division builds the formats (Engram, Cartridge, DataSpool, CML), the tools that bring data in (PDF and DOCX into CML, conversion pipelines into Engrams), and the collections we publish as Engrams you download overnight, starting with a public-domain library.
+
+### Machine Intelligence
+
+Astromind, our cellular machine intelligence research: small, CPU-native, integer-first brains built from biological substrates, now in its 26th version. Alongside it: research into fast knowledge retrieval, and agents that work through the engine.
+
+### Computational Engineering and Research
+
+Where most of our engineering happens. The Noderalis engine (runtime, supervisor daemon, capability model, embedded Databank), the developer platform around it (the Nod CLI, JS and Rust SDKs, WASM modules packaged as Engrams), shared services such as sync and communications, and the personal and business software built on top.
+
+### Manifest Humanity
+
+Civic infrastructure. Laws, bills, constitutions and regulations, gathered and published as Engrams people download once and use offline, linked down to the exact clause, with plain-language summaries tied to the source text.
+
+### Astrolyptic Entertainment & Media
+
+One storyverse: the game, the books and stories, the characters and the art that carries across all of it.
 
 Browse by topic: [machine-intelligence](https://github.com/orgs/Blackfall-Labs/repositories?q=topic%3Amachine-intelligence), [data-preservation](https://github.com/orgs/Blackfall-Labs/repositories?q=topic%3Adata-preservation), [astromind](https://github.com/orgs/Blackfall-Labs/repositories?q=topic%3Aastromind).
 
